@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contactList>
+    <contact id="1" vip="true">
+        <name>张无忌</name>
+        <gender>男</gender>
+        <email>wuji@itcast.cn</email>
+    </contact>
+    <contact id="2" vip="false">
+        <name>小昭</name>
+        <gender>女</gender>
+        <email>xiaozhao@itcast.cn</email>
+    </contact>
+    <contact id="3" vip="false">
+        <name>灭绝师太</name>
+        <gender>女</gender>
+        <email>miejue@itcast.cn</email>
+    </contact>
+</contactList>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<school>
+    <teacher id="1" position="班主任">
+        <name>贾老师</name>
+        <sex>女</sex>
+        <age>18</age>
+    </teacher>
+
+    <student id="1">
+        <name>刘坤</name>
+        <sex>男</sex>
+        <email>liukun@icast.cn</email>
+    </student>
+
+    <teacher id="2" position="校长">
+        <name>蒙老师</name>
+        <sex>男</sex>
+        <age>18</age>
+    </teacher>
+
+    <student id="2">
+        <name>王萌萌</name>
+        <sex>女</sex>
+        <email>wmm@icast.cn</email>
+    </student>
+
+    <teacher id="3" position="讲师">
+        <name>张老师</name>
+        <sex>男</sex>
+        <age>18</age>
+    </teacher>
+
+    <student id="3">
+        <name>刘毅</name>
+        <sex>男</sex>
+        <email>liuyi@icast.cn</email>
+    </student>
+</school>

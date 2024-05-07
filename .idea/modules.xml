@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSE_Code_64.iml" filepath="$PROJECT_DIR$/JavaSE_Code_64.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentSystemManager/StudentSystemManager.iml" filepath="$PROJECT_DIR$/StudentSystemManager/StudentSystemManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentSystemManager01/StudentSystemManager01.iml" filepath="$PROJECT_DIR$/StudentSystemManager01/StudentSystemManager01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentSystemManagerV1.5/StudentSystemManagerV1.5.iml" filepath="$PROJECT_DIR$/StudentSystemManagerV1.5/StudentSystemManagerV1.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentSystemManagerV2.0/StudentSystemManagerV2.0.iml" filepath="$PROJECT_DIR$/StudentSystemManagerV2.0/StudentSystemManagerV2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentSystemManagerV2.1/StudentSystemManagerV2.1.iml" filepath="$PROJECT_DIR$/StudentSystemManagerV2.1/StudentSystemManagerV2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentSystemManagerV3.0/StudentSystemManagerV3.0.iml" filepath="$PROJECT_DIR$/StudentSystemManagerV3.0/StudentSystemManagerV3.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test01-chenhui/Test01-chenhui.iml" filepath="$PROJECT_DIR$/Test01-chenhui/Test01-chenhui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_Basics/day01_Basics.iml" filepath="$PROJECT_DIR$/day01_Basics/day01_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_extends/day02_extends.iml" filepath="$PROJECT_DIR$/day02_extends/day02_extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_class_lambda/day04_class_lambda.iml" filepath="$PROJECT_DIR$/day04_class_lambda/day04_class_lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05_API01/day05_API01.iml" filepath="$PROJECT_DIR$/day05_API01/day05_API01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06_API02/day06_API02.iml" filepath="$PROJECT_DIR$/day06_API02/day06_API02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07_List/day07_List.iml" filepath="$PROJECT_DIR$/day07_List/day07_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08_set/day08_set.iml" filepath="$PROJECT_DIR$/day08_set/day08_set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09_map/day09_map.iml" filepath="$PROJECT_DIR$/day09_map/day09_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10_stream_File/day10_stream_File.iml" filepath="$PROJECT_DIR$/day10_stream_File/day10_stream_File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11_IO01/day11_IO01.iml" filepath="$PROJECT_DIR$/day11_IO01/day11_IO01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12_IO02/day12_IO02.iml" filepath="$PROJECT_DIR$/day12_IO02/day12_IO02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_IO03/day13_IO03.iml" filepath="$PROJECT_DIR$/day13_IO03/day13_IO03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14_properties_xml_log/day14_properties_xml_log.iml" filepath="$PROJECT_DIR$/day14_properties_xml_log/day14_properties_xml_log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15_thread/day15_thread.iml" filepath="$PROJECT_DIR$/day15_thread/day15_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16_network-app/day16_network-app.iml" filepath="$PROJECT_DIR$/day16_network-app/day16_network-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17_junit.../day17_junit....iml" filepath="$PROJECT_DIR$/day17_junit.../day17_junit....iml" />
+      <module fileurl="file://$PROJECT_DIR$/game/game.iml" filepath="$PROJECT_DIR$/game/game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>

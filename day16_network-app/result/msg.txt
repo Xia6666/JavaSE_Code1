@@ -1,0 +1,4 @@
+id=heima001
+name=张三
+age=23
+schoo1=黑马程序员

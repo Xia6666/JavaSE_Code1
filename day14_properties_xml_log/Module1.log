@@ -1,0 +1,6 @@
+2024-05-05 20:50:49.425 [main] INFO  com.itheima.log.Demo1 - add方法中的参数a2,b0
+2024-05-05 20:50:49.427 [main] WARN  com.itheima.log.Demo1 - add方法中的参数a2,b0
+2024-05-05 20:50:49.429 [main] ERROR com.itheima.log.Demo1 - 程序报错了，除数不能为零
+java.lang.ArithmeticException: / by zero
+	at com.itheima.log.Demo1.test(Demo1.java:25)
+	at com.itheima.log.Demo1.main(Demo1.java:13)

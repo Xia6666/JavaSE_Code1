@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<users><!--根标签--><!--一个xml文件只能有一个根标签-->
+    <user id="1"><!--根标签下子标签名字可以重复，可以给它一个属性区分-->
+        <name>zhangsan</name><!--最后一层标签是属性标签，里面填写value值-->
+        <password>1234</password>
+        <age>21</age>
+    </user>
+
+
+    <user id="2">
+        <name>lisi</name>
+        <password>5678</password>
+        <age>22</age>
+    </user>
+
+    <user id="3">
+        <name>wangwu</name>
+        <password>020210</password>
+        <age>19</age>
+    </user>
+
+</users>
